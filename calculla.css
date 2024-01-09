@@ -1,0 +1,181 @@
+body{
+    margin:0;
+    padding:0;
+    background:linear-gradient(to left,#7808f0,#06bdf5);
+}
+.calci{
+    width: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position:absolute;
+    top:50%;
+    left:70%;
+    transform:translate(-50%,-50%);
+    transition:0.25px;
+    background-color: darkorchid;
+    text-align: center;
+}
+#display{
+    border:none;
+    background:white;
+    border-radius:30px;
+    width:245;
+    font-size: 20;
+    font-family: sans-serif;
+    font-weight:300;
+    height:60;
+    margin:auto;
+    border:2px solid white;
+    color:aquamarine;
+}
+.btnDesign{
+    width:55;
+    height:55;
+    padding-top: -1;
+    border:none;
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: 300;
+    border-radius: 30px;
+    margin:1.5;
+}
+.operatorDesign{
+    width:55;
+    height:55;
+    padding-top: -1;
+    border:none;
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: 300;
+    border-radius: 30px;
+    margin:1.5;
+    transition:0.25px;
+    cursor:pointer;
+}
+.operatorDesign:hover{
+    background:#00d9ff;
+}
+#zero{
+    width:116;
+    height:55;
+    padding-top: -1;
+    border:none;
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: 300;
+    border-radius: 30px;
+    margin:1.5;
+}
+.col
+{
+width=80;
+padding-top: 10px;
+border:10px;
+margin:3px;
+background-color: goldenrod;
+
+}
+.des{
+    width=57;
+    padding:3px;
+    border:2px;
+    background-color: indianred;
+    margin:2px;
+}
+.heu{
+    width=57;
+    padding:3px;
+    border:2px;
+    background-color: rgb(8, 133, 190);
+    margin:2px;
+    
+}
+.lal{
+    width=57;
+    padding:3px;
+    border:2px;
+    background-color: indianred;
+    margin:2px;
+}
+.cre{
+    width=45;
+    padding:3px;
+    border:2px;
+    background-color: rgb(14, 241, 45);
+    margin:2px;
+}
+.hea{
+    width=500;
+    padding:10px;
+    border:1000px;
+    background-color: rgb(241, 12, 119);
+    margin:2.5px;
+}
+.home{
+    width=67;
+    padding:2px;
+    border:100px;
+    background-color: rgb(237, 241, 12);
+    margin:2.5px;
+    float:left ;
+}
+.about{
+    width=67;
+    padding:2px;
+    border:100px;
+    background-color: rgb(237, 241, 12);
+    margin:2.5px;
+    float: left
+}
+.review{
+    width=67;
+    padding:2px;
+    border:100px;
+    background-color: rgb(237, 241, 12);
+    margin:2.5px;
+    float: left
+}
+.contact{
+    width=67;
+    padding:2px;
+    border:100px;
+    background-color: rgb(237, 241, 12);
+    margin:2.5px;
+    float: left
+}
+.we{
+    width=67;
+    padding:2px;
+    border:10px;
+    background-color: rgb(237, 241, 12);
+    margin:2.5px;
+    
+}
+.credit{
+    width=100;
+    padding:10px;
+    border:10px;
+    background-color: rgb(241, 12, 12);
+    margin:2.5px;
+}
+.th{
+    width: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position:absolute;
+    top:50%;
+    left:70%;
+    transform:translate(-50%,-50%);
+    transition:0.25px;
+    background-color: rgb(18, 236, 120);
+    text-align: center;
+    font-size:x-large;
+}
+.lala{
+    width=57;
+    padding:3px;
+    border:2px;
+    background-color: rgb(185, 204, 12);
+    margin:2px;
+    float:left
+}
